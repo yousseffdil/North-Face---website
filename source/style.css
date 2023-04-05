@@ -170,5 +170,5 @@ video#miVideo {
 .imagen-clickeable:hover,
 .imagen-clickeable:focus,
 .imagen-clickeable:active {
-    transform: scale(1.6);
+    transform: scale(1.5);
 }
